@@ -8,6 +8,7 @@ The Netflix Dashboard Project is an interactive data visualization that analyzes
 
 The project utilizes Tableau for interactive visualization, making it easy for users to explore the data and derive actionable insights.
 
+![alt text](https://github.com/VeluriAnvika/Netflix_Tableau_dashboard/blob/main/Netflix_Dashboard.png)
 
 ## Data Sources
 
