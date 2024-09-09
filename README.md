@@ -1,6 +1,9 @@
 # Netflix-Tableau-Dashboard
 Analyzed Netflix viewing data using Tableau and created a dashboard to visualize key metrics related to user preferences, genre popularity, and viewing patterns.
 
+The project demo can be found here
+- [Project Demo](https://public.tableau.com/views/Netflix_dashboard_17258582117580/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 ---
 
